@@ -1,7 +1,7 @@
 # Hi there I am Himanshu Shekar! 👋
 # Welcome to my GitHub Profile
 ## About Me 📖
-I'm a passionate developer who loves to explore new technologies and build exciting projects. My primary focus is on [web development](https://example.com) and [machine learning](https://example.com). I enjoy creating innovative solutions and collaborating with others to tackle challenging problems.
+I'm a passionate developer who loves to explore new technologies and build exciting projects. My primary focus is on machine learning and algorithms. I enjoy creating innovative solutions and collaborating with others to tackle challenging problems.
 
 ## Skills 🚀
 - **Programming Languages**: Python, C++, Java
